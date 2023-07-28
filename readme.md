@@ -1,2 +1,2 @@
 # This is a simple login page.
-# For moreprojects visit github.com/rukshanmaduranga
+# For morep rojects visit github.com/rukshanmaduranga
